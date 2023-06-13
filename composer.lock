@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fd41096857f738f848fef2008a0caf9a",
+    "content-hash": "e0227b7d902c6be301d83e7bd215431f",
     "packages": [
         {
             "name": "bordoni/phpass",
@@ -4996,7 +4996,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=7.3"
+        "php": "^8.1"
     },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
